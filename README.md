@@ -26,8 +26,8 @@ Começe solicitando nome do Personal, depois do aluno e segue conforme ordem, um
    
   - DIAS DISPONÍVEIS:
     * 1 dia = Treino Full Body
-	  * 3 dias = Treino ABC
-	  * 5 dias = Treino ABCDE
+    * 3 dias = Treino ABC
+    * 5 dias = Treino ABCDE
    
   - Faixa etária do aluno:
     * Adulto
